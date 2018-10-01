@@ -6,4 +6,4 @@ More to do here
 
 another example
 
-difftool testing
+difftool testing!
